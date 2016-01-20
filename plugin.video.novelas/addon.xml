@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.novelas" name="Novelas TV Tupi" version="0.3.1" provider-name="Marcilio Guedes Lima">
+  <requires>
+    <import addon="xbmc.python" version="2.14.0"/>
+	<import addon="script.module.requests" version="2.4.3"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="main.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <language>en</language>
+    <platform>all</platform>
+    <summary lang="en">Novelas TV Tupi</summary>
+    <description lang="en">Capítulos de Novelas da TV Tupi (Cinemateca Brasileira de SP):
+	<list xmlns:xsi=”http://www.w3.org/2001/XMLSchema-instance”>
+
+		<item>
+			<title>A FÁBRICA Capítulo: 300 Data: 08/03/1972</title>
+			<link>http://static.bcc.org.br/videos/tupi_telenovelas/flv/000139_320x240.flv</link>
+		</item>
+	</list>	
+	</description>
+    <platform>all</platform>
+  </extension>
+</addon>
