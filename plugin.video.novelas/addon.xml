@@ -12,14 +12,11 @@
     <platform>all</platform>
     <summary lang="en">Novelas TV Tupi</summary>
     <description lang="en">Capítulos de Novelas da TV Tupi (Cinemateca Brasileira de SP):
-	<list xmlns:xsi=”http://www.w3.org/2001/XMLSchema-instance”>
-
 		<item>
 			<title>A FÁBRICA Capítulo: 300 Data: 08/03/1972</title>
 			<link>http://static.bcc.org.br/videos/tupi_telenovelas/flv/000139_320x240.flv</link>
 		</item>
-	</list>	
-	</description>
+		</description>
     <platform>all</platform>
   </extension>
 </addon>
